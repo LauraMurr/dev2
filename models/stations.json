@@ -1,0 +1,17 @@
+{
+  "file": "./models/stations.json",
+  "stations": [
+    {
+      "title": "Booper's station ",
+      "_id": "eb0887f2-9f38-4440-a9c5-5160fe3c54f0"
+    },
+    {
+      "title": "Missy's station",
+      "_id": "0569722b-1d44-4bcc-bc77-b3e524d6c92a"
+    },
+    {
+      "title": "Anna's station",
+      "_id": "df4de87e-9c54-442b-805b-95ecc94fe16c"
+    }
+  ]
+}
